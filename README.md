@@ -7,8 +7,6 @@
 
 An end-to-end Deep Learning web application that predicts handwritten digits (0-9) in real-time. Built with TensorFlow/Keras and deployed using a Gradio web interface.
 
-> **Note:** [Insert a link to your screen-recording or GIF here once you post it on LinkedIn!]
-
 ## 🚀 The Project
 This project trains a Convolutional Neural Network (CNN) on the classic MNIST dataset to achieve ~99% test accuracy. Instead of just stopping at a Jupyter Notebook, I integrated the trained model with a live sketchpad UI so users can draw digits and get instant, real-time predictions. 
 
